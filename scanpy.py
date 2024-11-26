@@ -1,4 +1,8 @@
-# PyIPScanner.py
+# scanpy.py
+
+# Jake Morgan
+# https://github.com/jakemorgangit
+# Version 1.0 - November 2024
 
 import sys
 import os
