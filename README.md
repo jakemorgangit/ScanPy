@@ -43,6 +43,7 @@ With a user-friendly GUI built using PyQt5, it is designed for system administra
 ## Launch the application
 
 On first launch, you'll be prompted to initialise the OUI database - this takes approx 5 minutes and will populate the local database with up-to-date MAC address information from the OUI (Organizationally Unique Identifier) from https://standards-oui.ieee.org/
+
 ![image](https://github.com/user-attachments/assets/f162ad0f-5325-4581-8e6f-62feaec65006)
 
 Once the database has been populated, you'll recevied this dialog box:
@@ -67,7 +68,7 @@ For any hosts that have a SSH (port 22) or RDP (port 3389) port open, you can do
 
 You can edit the Name and Comments fields for devices directly in the table.  These customs names and comments are saved to the local SQLLite database, and persist so are available the next time the tool is used.
 
-Additionally, you save your GUI configurations (column width etc) and revisit them later, thanks to persistent database storage.
+Additionally, you can save your GUI configurations (column width etc) and revisit them later, thanks to persistent database storage.
 
 
 # Future Enhancements
